@@ -9,7 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        BaseTextAppendView()
+        BaseWebPageView(url:"https://www.163.com/", deadTime: 10)
     }
 }
 
