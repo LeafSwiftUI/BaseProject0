@@ -9,7 +9,9 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        BaseWebPageView(url:"https://www.163.com/", deadTime: 10)
+        ScrollView{
+            BaseAsymmetricTranitionView()
+        }
     }
 }
 

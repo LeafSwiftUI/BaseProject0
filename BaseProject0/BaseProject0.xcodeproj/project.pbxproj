@@ -43,6 +43,22 @@
 		09BAE3132764CB14003A1CE8 /* BaseTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09BAE3122764CB14003A1CE8 /* BaseTabView.swift */; };
 		09BAE3152764CB57003A1CE8 /* BaseWebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09BAE3142764CB57003A1CE8 /* BaseWebView.swift */; };
 		09BAE3172764D4B8003A1CE8 /* BaseWebPageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09BAE3162764D4B8003A1CE8 /* BaseWebPageView.swift */; };
+		09BAE3192764DA74003A1CE8 /* BaseMapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09BAE3182764DA74003A1CE8 /* BaseMapView.swift */; };
+		09BAE31B2764DB96003A1CE8 /* BasePaintingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09BAE31A2764DB96003A1CE8 /* BasePaintingView.swift */; };
+		09BAE31D2764DBF2003A1CE8 /* BaseShapeRectView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09BAE31C2764DBF2003A1CE8 /* BaseShapeRectView.swift */; };
+		09BAE3212764DC89003A1CE8 /* BaseShapPathView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09BAE3202764DC89003A1CE8 /* BaseShapPathView.swift */; };
+		09BAE3232764DD11003A1CE8 /* BaseLinearGradienView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09BAE3222764DD11003A1CE8 /* BaseLinearGradienView.swift */; };
+		09BAE3252764DD3E003A1CE8 /* BaseAngularGradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09BAE3242764DD3E003A1CE8 /* BaseAngularGradientView.swift */; };
+		09BAE3272764DDA8003A1CE8 /* BaseRadialGradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09BAE3262764DDA8003A1CE8 /* BaseRadialGradientView.swift */; };
+		09BAE32B2764E13F003A1CE8 /* BaseAnimationView1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09BAE32A2764E13F003A1CE8 /* BaseAnimationView1.swift */; };
+		09BAE32D2764E2AA003A1CE8 /* BaseAnimationView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09BAE32C2764E2AA003A1CE8 /* BaseAnimationView2.swift */; };
+		09BAE32F2764E4FA003A1CE8 /* BaseAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09BAE32E2764E4FA003A1CE8 /* BaseAnimationView.swift */; };
+		09BAE3312764E55B003A1CE8 /* BaseAnimationView3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09BAE3302764E55B003A1CE8 /* BaseAnimationView3.swift */; };
+		09BAE3332764E5C9003A1CE8 /* BaseAnimationView4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09BAE3322764E5C9003A1CE8 /* BaseAnimationView4.swift */; };
+		09BAE33527670A77003A1CE8 /* BaseAnimationView5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09BAE33427670A77003A1CE8 /* BaseAnimationView5.swift */; };
+		09BAE33927670B05003A1CE8 /* BaseAnimationView6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09BAE33827670B05003A1CE8 /* BaseAnimationView6.swift */; };
+		09BAE33B27670C03003A1CE8 /* BaseToggleVisibilityView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09BAE33A27670C03003A1CE8 /* BaseToggleVisibilityView.swift */; };
+		09BAE33D27670E69003A1CE8 /* BaseAsymmetricTranitionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09BAE33C27670E69003A1CE8 /* BaseAsymmetricTranitionView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -84,6 +100,22 @@
 		09BAE3122764CB14003A1CE8 /* BaseTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseTabView.swift; sourceTree = "<group>"; };
 		09BAE3142764CB57003A1CE8 /* BaseWebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseWebView.swift; sourceTree = "<group>"; };
 		09BAE3162764D4B8003A1CE8 /* BaseWebPageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseWebPageView.swift; sourceTree = "<group>"; };
+		09BAE3182764DA74003A1CE8 /* BaseMapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseMapView.swift; sourceTree = "<group>"; };
+		09BAE31A2764DB96003A1CE8 /* BasePaintingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasePaintingView.swift; sourceTree = "<group>"; };
+		09BAE31C2764DBF2003A1CE8 /* BaseShapeRectView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseShapeRectView.swift; sourceTree = "<group>"; };
+		09BAE3202764DC89003A1CE8 /* BaseShapPathView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseShapPathView.swift; sourceTree = "<group>"; };
+		09BAE3222764DD11003A1CE8 /* BaseLinearGradienView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseLinearGradienView.swift; sourceTree = "<group>"; };
+		09BAE3242764DD3E003A1CE8 /* BaseAngularGradientView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseAngularGradientView.swift; sourceTree = "<group>"; };
+		09BAE3262764DDA8003A1CE8 /* BaseRadialGradientView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseRadialGradientView.swift; sourceTree = "<group>"; };
+		09BAE32A2764E13F003A1CE8 /* BaseAnimationView1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseAnimationView1.swift; sourceTree = "<group>"; };
+		09BAE32C2764E2AA003A1CE8 /* BaseAnimationView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseAnimationView2.swift; sourceTree = "<group>"; };
+		09BAE32E2764E4FA003A1CE8 /* BaseAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseAnimationView.swift; sourceTree = "<group>"; };
+		09BAE3302764E55B003A1CE8 /* BaseAnimationView3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseAnimationView3.swift; sourceTree = "<group>"; };
+		09BAE3322764E5C9003A1CE8 /* BaseAnimationView4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseAnimationView4.swift; sourceTree = "<group>"; };
+		09BAE33427670A77003A1CE8 /* BaseAnimationView5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseAnimationView5.swift; sourceTree = "<group>"; };
+		09BAE33827670B05003A1CE8 /* BaseAnimationView6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseAnimationView6.swift; sourceTree = "<group>"; };
+		09BAE33A27670C03003A1CE8 /* BaseToggleVisibilityView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseToggleVisibilityView.swift; sourceTree = "<group>"; };
+		09BAE33C27670E69003A1CE8 /* BaseAsymmetricTranitionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseAsymmetricTranitionView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,6 +151,7 @@
 				09BAE2C02764B2D5003A1CE8 /* AppDelegate.swift */,
 				09BAE2C22764B2D5003A1CE8 /* SceneDelegate.swift */,
 				09BAE2C42764B2D5003A1CE8 /* ViewController.swift */,
+				09BAE33E27670FF9003A1CE8 /* BaseAnimation */,
 				09BAE2F12764C0BD003A1CE8 /* BaseSpacer */,
 				09BAE2EA2764BD72003A1CE8 /* BaseButton */,
 				09BAE2E52764BAA7003A1CE8 /* BaseTextField */,
@@ -185,8 +218,31 @@
 				09BAE3122764CB14003A1CE8 /* BaseTabView.swift */,
 				09BAE3142764CB57003A1CE8 /* BaseWebView.swift */,
 				09BAE3162764D4B8003A1CE8 /* BaseWebPageView.swift */,
+				09BAE3182764DA74003A1CE8 /* BaseMapView.swift */,
+				09BAE31A2764DB96003A1CE8 /* BasePaintingView.swift */,
+				09BAE31C2764DBF2003A1CE8 /* BaseShapeRectView.swift */,
+				09BAE3202764DC89003A1CE8 /* BaseShapPathView.swift */,
+				09BAE3222764DD11003A1CE8 /* BaseLinearGradienView.swift */,
+				09BAE3242764DD3E003A1CE8 /* BaseAngularGradientView.swift */,
+				09BAE3262764DDA8003A1CE8 /* BaseRadialGradientView.swift */,
 			);
 			path = BaseSpacer;
+			sourceTree = "<group>";
+		};
+		09BAE33E27670FF9003A1CE8 /* BaseAnimation */ = {
+			isa = PBXGroup;
+			children = (
+				09BAE32E2764E4FA003A1CE8 /* BaseAnimationView.swift */,
+				09BAE32A2764E13F003A1CE8 /* BaseAnimationView1.swift */,
+				09BAE32C2764E2AA003A1CE8 /* BaseAnimationView2.swift */,
+				09BAE3302764E55B003A1CE8 /* BaseAnimationView3.swift */,
+				09BAE3322764E5C9003A1CE8 /* BaseAnimationView4.swift */,
+				09BAE33427670A77003A1CE8 /* BaseAnimationView5.swift */,
+				09BAE33827670B05003A1CE8 /* BaseAnimationView6.swift */,
+				09BAE33C27670E69003A1CE8 /* BaseAsymmetricTranitionView.swift */,
+				09BAE33A27670C03003A1CE8 /* BaseToggleVisibilityView.swift */,
+			);
+			path = BaseAnimation;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -268,18 +324,30 @@
 				09BAE2DB2764B67C003A1CE8 /* BasePaddingView.swift in Sources */,
 				09BAE2FF2764C58E003A1CE8 /* BaseImage_MaskView.swift in Sources */,
 				09BAE2FD2764C498003A1CE8 /* BaseImage_BlendView.swift in Sources */,
+				09BAE32D2764E2AA003A1CE8 /* BaseAnimationView2.swift in Sources */,
 				09BAE30D2764CA02003A1CE8 /* BaseStepperView.swift in Sources */,
+				09BAE32F2764E4FA003A1CE8 /* BaseAnimationView.swift in Sources */,
 				09BAE30B2764C998003A1CE8 /* BaseSliderView.swift in Sources */,
+				09BAE3332764E5C9003A1CE8 /* BaseAnimationView4.swift in Sources */,
+				09BAE33527670A77003A1CE8 /* BaseAnimationView5.swift in Sources */,
 				09BAE2F52764C16D003A1CE8 /* BaseDividerView.swift in Sources */,
+				09BAE33927670B05003A1CE8 /* BaseAnimationView6.swift in Sources */,
 				09BAE2C52764B2D5003A1CE8 /* ViewController.swift in Sources */,
+				09BAE3252764DD3E003A1CE8 /* BaseAngularGradientView.swift in Sources */,
 				09BAE2C12764B2D5003A1CE8 /* AppDelegate.swift in Sources */,
 				09BAE2F92764C2FE003A1CE8 /* BaseImage_StyleView.swift in Sources */,
 				09BAE2F32764C0CD003A1CE8 /* BaseSpacer.swift in Sources */,
 				09BAE3052764C6EE003A1CE8 /* BasePickerView.swift in Sources */,
 				09BAE30F2764CA90003A1CE8 /* BaseSegmentView.swift in Sources */,
+				09BAE32B2764E13F003A1CE8 /* BaseAnimationView1.swift in Sources */,
+				09BAE3192764DA74003A1CE8 /* BaseMapView.swift in Sources */,
+				09BAE33D27670E69003A1CE8 /* BaseAsymmetricTranitionView.swift in Sources */,
+				09BAE3212764DC89003A1CE8 /* BaseShapPathView.swift in Sources */,
 				09BAE2D72764B459003A1CE8 /* BaseTextView.swift in Sources */,
 				09BAE2E72764BAFF003A1CE8 /* BaseTextField.swift in Sources */,
+				09BAE3312764E55B003A1CE8 /* BaseAnimationView3.swift in Sources */,
 				09BAE3092764C76D003A1CE8 /* BasePickerDateView.swift in Sources */,
+				09BAE3232764DD11003A1CE8 /* BaseLinearGradienView.swift in Sources */,
 				09BAE2E32764B94F003A1CE8 /* BaseTextAppendView.swift in Sources */,
 				09BAE2D92764B59D003A1CE8 /* BaseTextPargraphView.swift in Sources */,
 				09BAE2E12764B89A003A1CE8 /* BaseTextDateFormatterView.swift in Sources */,
@@ -289,7 +357,11 @@
 				09BAE2DD2764B766003A1CE8 /* BaseTextFullScreenView.swift in Sources */,
 				09BAE2D52764B302003A1CE8 /* ContentView.swift in Sources */,
 				09BAE2F02764BF77003A1CE8 /* MyDetailView.swift in Sources */,
+				09BAE3272764DDA8003A1CE8 /* BaseRadialGradientView.swift in Sources */,
 				09BAE2C32764B2D5003A1CE8 /* SceneDelegate.swift in Sources */,
+				09BAE33B27670C03003A1CE8 /* BaseToggleVisibilityView.swift in Sources */,
+				09BAE31B2764DB96003A1CE8 /* BasePaintingView.swift in Sources */,
+				09BAE31D2764DBF2003A1CE8 /* BaseShapeRectView.swift in Sources */,
 				09BAE2FB2764C3DE003A1CE8 /* BaseImage_ProcessingView.swift in Sources */,
 				09BAE3112764CADC003A1CE8 /* BaseToggleView.swift in Sources */,
 				09BAE3012764C5CB003A1CE8 /* BaseImage_TransformView.swift in Sources */,
